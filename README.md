@@ -9,4 +9,4 @@ Menyelesaikan identifikasi level brightness pada sebuah gambar, yang menyebabkan
 
 
 Lihat catatan kuliah minggu lalu:
-[Menguji performa dalgoritma deteksi wajah](https://github.com/bana-handaga/Computer-Vision-20181/blob/master/Performance%20Testing.pdf)
+[Menguji performa algoritma deteksi wajah](https://github.com/bana-handaga/Computer-Vision-20181/blob/master/Performance%20Testing.pdf)
